@@ -1,6 +1,6 @@
-import Base from "./base";
-import Marble from "./marble";
-import Slingshot from "./slingshot";
+import Base from "./base.js";
+import Marble from "./marble.js";
+import Slingshot from "./slingshot.js";
 
 export default class Player {
   constructor(

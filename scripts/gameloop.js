@@ -1,9 +1,9 @@
-import Background from "./background";
-import Bird from "./bird";
-import Canvas from "./canvas";
-import Overlay from "./overlay";
-import Player from "./player";
-import Powerup from "./powerup";
+import Background from "./background.js";
+import Bird from "./bird.js";
+import Canvas from "./canvas.js";
+import Overlay from "./overlay.js";
+import Player from "./player.js";
+import Powerup from "./powerup.js";
 
 export default class Gameloop {
   constructor(assets) {

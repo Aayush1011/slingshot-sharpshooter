@@ -1,4 +1,4 @@
-import Gameloop from "./gameloop";
+import Gameloop from "./gameloop.js";
 
 function main() {
   let assets = {};
